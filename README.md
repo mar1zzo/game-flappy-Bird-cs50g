@@ -67,9 +67,9 @@ O CS50 Games é um curso gratuíto online estruturado em 12 semanas oferecido pe
 
 ### 🐦 &nbsp; Medalhas por pontuação
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/69127182/117873519-421cc980-b276-11eb-8ec2-5efc4cbd754f.png" width="300" height="210"/>
-  <img src="https://user-images.githubusercontent.com/69127182/117873530-45b05080-b276-11eb-837a-e80954c69c01.png" width="300" height="210"/>
-  <img src="https://user-images.githubusercontent.com/69127182/117873526-4517ba00-b276-11eb-9f6e-6575899dad16.png" width="300" height="210"/>
+  <img src="https://user-images.githubusercontent.com/69127182/117873519-421cc980-b276-11eb-8ec2-5efc4cbd754f.png" width="250" height="170"/>
+  <img src="https://user-images.githubusercontent.com/69127182/117873530-45b05080-b276-11eb-837a-e80954c69c01.png" width="250" height="170"/>
+  <img src="https://user-images.githubusercontent.com/69127182/117873526-4517ba00-b276-11eb-9f6e-6575899dad16.png" width="250" height="170"/>
 </p>
 
 Ajudinha (+ créditos) para obter imagens 👇
